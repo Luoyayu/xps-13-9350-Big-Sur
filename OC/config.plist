@@ -16,6 +16,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-OCI2C.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-OCI2C.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-OCWork-dell.aml</string>
 				<key>Enabled</key>
 				<true/>
