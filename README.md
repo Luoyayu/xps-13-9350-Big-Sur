@@ -1,4 +1,4 @@
-Big Sur(OSX 11.0.1) on DELL XP13(9350)
+Big Sur(OSX 11.1) on DELL XP13(9350)
 
 ## Installation
 
@@ -25,7 +25,7 @@ reference: https://github.com/hackintosh-stuff/ComboJack
 - Brightness
 - Brightness Keys
 - Sleep/Wake
-- buildin-Webcam
+- ~buildin-Webcam~
 - buildin-Sound/buildin-Mic
 - headphone-Sound/~~headphone-Mic~~
 - USB2/3/C/
