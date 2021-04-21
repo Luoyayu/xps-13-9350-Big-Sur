@@ -1,4 +1,4 @@
-Big Sur(OSX 11.1) on DELL XP13(9350)
+Big Sur(OSX 11.2.3) on DELL XP13(9350)
 
 ## Installation
 
