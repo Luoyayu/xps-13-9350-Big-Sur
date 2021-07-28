@@ -1,5 +1,6 @@
 Big Sur(OSX 11.2.3) on DELL XP13(9350). 
-OpenCore 0.6.4
+
+OpenCore 0.7.1
 
 ## Installation
 
