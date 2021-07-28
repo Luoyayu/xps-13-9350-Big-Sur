@@ -2,6 +2,8 @@ Big Sur(OSX 11.2.3) on DELL XP13(9350).
 
 OpenCore 0.7.1
 
+Add GUI MENU and Play Intro Sound with boot Chime.
+
 ## Installation
 
 Follow [English](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)  or [Chinese](https://blog.daliansky.net/macOS-BigSur-11.0.1-20B29-Release-version-with-Clover-5126-original-image-Double-EFI-Version-UEFI-and-MBR.html)
